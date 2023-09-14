@@ -1,3 +1,9 @@
 person:
   name:
-    first_name: Stig
+    first_name: Dima
+    last_name: Gustafsson
+  age: 37
+  class: java22
+  start_year: 2022
+  hobbies: playstation
+
