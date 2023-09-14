@@ -2,11 +2,11 @@ computer:
   cpu:
     cores: 8
     manufacturer: Apple
-    frequency: 3.2 Ghz
+    frequency: 3200
 
   memory:
     size: 32
-    memory type: ram
+    type: ram
 
   disk:
     manufacturer: toshiba
