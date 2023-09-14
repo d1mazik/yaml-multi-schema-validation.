@@ -1,3 +1,14 @@
 computer:
   cpu:
     cores: 8
+    manufacturer: Apple
+    frequency: 3.2 Ghz
+
+  memory:
+    size: 32
+    memory type: ram
+
+  disk:
+    manufacturer: toshiba
+    size: 1000
+    type: ssd
