@@ -1,2 +1,5 @@
 car:
-  manufacturer: volvo
+  manufacturer: bmw
+  year: 2023
+  reg: aaa222
+  attributes: m-paket
