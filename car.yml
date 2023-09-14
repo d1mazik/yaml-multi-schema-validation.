@@ -1,5 +1,8 @@
 car:
   manufacturer: bmw
+  model: 330
   year: "2023"
   reg: aaa222
-  attributes: m-paket
+  attributes:
+    - m-paket
+    - panorama
