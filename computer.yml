@@ -5,6 +5,7 @@ computer:
     frequency: 3200
 
   memory:
+    manufacturer: samsung
     size: 32
     type: ram
 
